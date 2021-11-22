@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -51,5 +51,13 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Franchise-Free-Bold.ttf</string>
+		<string>Merriweather-Regular.ttf</string>
+		<string>OdibeeSans-Regular.ttf</string>
+		<string>Play-Regular.ttf</string>
+		<string>Russo_One.ttf</string>
+	</array>
 </dict>
 </plist>
